@@ -1,0 +1,4 @@
+nginx_nodejs/node/app/node_modules
+nginx_nodejs/node/app/package-lock.json
+
+nginx_nodejs/db/mysql
